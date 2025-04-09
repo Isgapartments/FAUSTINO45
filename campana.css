@@ -12,9 +12,22 @@ font-size: medium;
 background-image: url(logo2.jpeg);
 
 }
-.imagen{
-  
+
+.image-container {
+  /* Estilos para el div que contiene la imagen */
+  text-align: center;
+  margin: 20px;
+  border: 2px solid #ddd;
+  padding: 10px;
 }
+
+.image-container img {
+  /* Estilos específicos para la imagen dentro del div */
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
+
 .video-grid {
 
   display: grid;
