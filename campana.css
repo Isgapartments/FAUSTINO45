@@ -12,19 +12,11 @@ font-size: medium;
 background-image: url(logo2.jpeg);
 
 }
-
-.image-container {
-  /* Estilos para el div que contiene la imagen */
-  text-align: center;
-  margin: 20px;
-  padding: 10px;
-}
-
 .image-container img {
   /* Estilos específicos para la imagen dentro del div */
   margin: 10px auto;
 width: 320px; /* Adjust the width as needed */
-height: 240px;
+height: 260px;
 box-sizing:  60px;;
 }
 
