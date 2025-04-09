@@ -23,9 +23,9 @@ background-image: url(logo2.jpeg);
 
 .image-container img {
   /* Estilos específicos para la imagen dentro del div */
-  max-width: 260px;
-  height: 260px;
-  border-radius: 8px;
+  margin: 10px auto;
+width: 320px; /* Adjust the width as needed */
+height: 240px;
 }
 
 .video-grid {
