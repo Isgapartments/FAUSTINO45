@@ -23,8 +23,8 @@ background-image: url(logo2.jpeg);
 
 .image-container img {
   /* Estilos específicos para la imagen dentro del div */
-  max-width: 100%;
-  height: auto;
+  max-width: 260px;
+  height: 260px;
   border-radius: 8px;
 }
 
