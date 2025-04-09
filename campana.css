@@ -13,7 +13,7 @@ background-image: url(logo2.jpeg);
 
 }
 .image-container img {
-  margin: 10px auto;
+  margin: 10px;
   width: 320px; /* Adjust the width as needed */
   height: 240px; 
 
