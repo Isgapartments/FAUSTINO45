@@ -13,18 +13,16 @@ background-image: url(logo2.jpeg);
 
 }
 .image-container img {
-  /* Estilos específicos para la imagen dentro del div */
   margin: 10px auto;
-width: 460px; /* Adjust the width as needed */
-height: 560px;
+width: 560px; /* Adjust the width as needed */
+height: 460px;
 box-sizing:  60px;;
 }
 
 .image-container {
-
   grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); /* Adjusted min-width to 260px */
   gap: 20px;
-  margin-bottom: 20px;
+  margin-bottom: 40px;
 }
 
 .video-grid {
