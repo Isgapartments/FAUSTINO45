@@ -15,8 +15,8 @@ background-image: url(logo2.jpeg);
 .image-container img {
   /* Estilos específicos para la imagen dentro del div */
   margin: 10px auto;
-width: 460px; /* Adjust the width as needed */
-height: 260px;
+width: 560px; /* Adjust the width as needed */
+height: 360px;
 box-sizing:  60px;;
 }
 
