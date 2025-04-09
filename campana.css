@@ -14,9 +14,9 @@ background-image: url(logo2.jpeg);
 }
 .image-container img {
   margin: 10px auto;
-width: 560px; /* Adjust the width as needed */
-height: 460px;
-box-sizing:  80px;;
+  width: 320px; /* Adjust the width as needed */
+  height: 240px; 
+
 }
 
 .image-container {
