@@ -26,6 +26,7 @@ background-image: url(logo2.jpeg);
   margin: 10px auto;
 width: 320px; /* Adjust the width as needed */
 height: 240px;
+box-sizing:  60px;;
 }
 
 .video-grid {
